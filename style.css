@@ -1,3 +1,6 @@
+:root {
+    line-height: 150%;
+}
 body {
     background-image: url(assets/images/bg-image.jpg);
     background-size: cover;
@@ -19,4 +22,28 @@ img {
     margin-top: 48px;
     margin-bottom: 100px;
     box-sizing: border-box;
+}
+
+
+
+h1 {
+    font-family: 'Alice', serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 140%;
+    color: 291B1A;
+}
+
+h2 {
+    font-family: 'Alice';
+    font-size:24px ;
+    font-weight: 400;
+    color: #291B1A;
+}
+
+p {
+    font-family: 'Alice';
+    font-size: 16px;
+    font-weight: 400;
+    color: #573A37;
 }
